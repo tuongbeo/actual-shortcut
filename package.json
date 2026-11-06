@@ -1,0 +1,9 @@
+{
+  "name": "actual-shortcut",
+  "private": true,
+  "type": "module",
+  "description": "iOS Shortcuts that record bank notifications into Actual Budget through Actuali",
+  "dependencies": {
+    "shortcutkit": "3.1.0"
+  }
+}
